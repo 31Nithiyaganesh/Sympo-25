@@ -151,7 +151,7 @@ const Oratio = () => {
           <li>Deepak Raj, AI & DS - +91 81221 08670</li>
           <li>Aarya R, CS- +91 73055 46300</li>
           <li>Vaishnavi Kumari, CS & BS - +91 93612 71711</li>
-          <li>Nivetha K, CSE- +91 81486 9319</li>
+          <li>Nivetha K, CSE- +91 81486 91319</li>
           <li>Harini S, IT - +91 86676 78553</li>
         </ul>
       ),
